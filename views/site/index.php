@@ -9,51 +9,33 @@ $backgroundUrl = "'/images/backgrounds/background" . rand(1, 13) . ".jpg'"
 </div>
 
 <div class="container">
-    <div class="site-index">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10">
+        <div class="spacer10"></div>
 
-        <div class="jumbotron">
-            <h1>Congratulations!</h1>
-
-            <p class="lead">You have successfully created your Yii-powered application.</p>
-
-            <p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">Get started with Yii</a></p>
+        <div>
+            <h3>Guidelines</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean luctus erat libero, et venenatis felis sodales fringilla. Nulla eu lacus eget est posuere facilisis id quis nisi. Maecenas ac pharetra metus. Nunc vitae eleifend risus. Phasellus sed elit posuere elit rhoncus commodo id sagittis felis. Aenean rutrum mi mauris, nec porta magna pellent</p>
         </div>
 
-        <div class="body-content">
+        <div class="spacer10"></div>
 
-            <div class="row">
-                <div class="col-lg-4">
-                    <h2>Heading</h2>
+        <div>
+            <h3>Read - Passage</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean luctus erat libero, et venenatis felis sodales fringilla. Nulla eu lacus eget est posuere facilisis id quis nisi. Maecenas ac pharetra metus. Nunc vitae eleifend risus. Phasellus sed elit posuere elit rhoncus commodo id sagittis felis. Aenean rutrum mi mauris, nec porta magna pellentesque vulputate. Donec accumsan arcu elit, sed elementum metus vehicula id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean ac tincidunt felis. Sed viverra dignissim odio, sit amet aliquam enim fermentum ut. Praesent nisl eros, mattis non auctor vehicula, hendrerit id purus. </p>
 
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                        dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                        ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                        fugiat nulla pariatur.</p>
+            <p>Sed non accumsan enim, et placerat leo. Quisque posuere semper tellus. Curabitur et mi risus. Quisque laoreet nisl et risus ultricies convallis. Nam finibus elementum elit vel porttitor. Quisque quis luctus erat. Maecenas at ante ligula. Duis pulvinar turpis vitae elit congue molestie. Suspendisse id dapibus quam. Vivamus sit amet quam ut ligula scelerisque euismod. Pellentesque feugiat lectus nec magna pharetra, quis feugiat lacus semper.</p>
 
-                    <p><a class="btn btn-default" href="http://www.yiiframework.com/doc/">Yii Documentation &raquo;</a></p>
-                </div>
-                <div class="col-lg-4">
-                    <h2>Heading</h2>
+            <p>Nam ultricies efficitur lorem consequat efficitur. Morbi vitae urna nulla. Donec porttitor, leo sed tincidunt aliquam, libero lacus varius ligula, lobortis tincidunt est lorem a risus. Nunc volutpat, sem et vestibulum blandit, urna sapien iaculis diam, sit amet blandit dolor enim a est. Nulla fringilla turpis eu felis imperdiet, at maximus sapien auctor. In ullamcorper vehicula posuere. Morbi aliquam tincidunt efficitur. Curabitur eu mi id tortor condimentum consectetur sit amet vitae metus. Maecenas non dui in tortor efficitur elementum.</p>
+            </p>
+        </div>
 
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                        dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                        ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                        fugiat nulla pariatur.</p>
 
-                    <p><a class="btn btn-default" href="http://www.yiiframework.com/forum/">Yii Forum &raquo;</a></p>
-                </div>
-                <div class="col-lg-4">
-                    <h2>Heading</h2>
+        <div class="spacer10"></div>
 
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                        dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                        ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                        fugiat nulla pariatur.</p>
-
-                    <p><a class="btn btn-default" href="http://www.yiiframework.com/extensions/">Yii Extensions &raquo;</a></p>
-                </div>
-            </div>
-
+        <div>
+            <h3>Prayer</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean luctus erat libero, et venenatis felis sodales fringilla. Nulla eu lacus eget est posuere facilisis id quis nisi. Maecenas ac pharetra metus. Nunc vitae eleifend risus. Phasellus sed elit posuere elit rhoncus commodo id sagittis felis. Aenean rutrum mi mauris, nec porta magna pellent</p>
         </div>
     </div>
 </div>
