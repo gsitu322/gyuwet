@@ -5,28 +5,12 @@ namespace app\models;
 use yii\db\ActiveRecord;
 
 /**
- * LoginForm is the model behind the login form.
- *
- *
  * @property string $name
  * @property bool $enabled
+ * @property \DateTime $create_dt
  */
 class Theme extends ActiveRecord
 {
-    protected $name;
-
-
-    /**
-     * Returns the static model of the specified AR class.
-     * @param string $className active record class name.
-     * @return ProjectInfo the static model class
-     */
-    public static function model($className = __CLASS__)
-    {
-        return parent::model($className);
-    }
-
-
     /**
      * @return array the validation rules.
      */
